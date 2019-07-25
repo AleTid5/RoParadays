@@ -1,21 +1,4 @@
-/*!
 
-=========================================================
-* Paper Kit React - v1.0.0
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/paper-kit-react
-
-* Copyright 2019 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/paper-kit-react/blob/master/LICENSE.md)
-
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
 import React from "react";
 // nodejs library that concatenates strings
 import classnames from "classnames";
@@ -71,7 +54,7 @@ function IndexNavbar() {
             target="_blank"
             title="Coded by Creative Tim"
           >
-            Paper Kit React
+            Roparadays
           </NavbarBrand>
           <button
             aria-expanded={navbarCollapse}
@@ -94,18 +77,7 @@ function IndexNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://twitter.com/CreativeTim?ref=creativetim"
-                target="_blank"
-                title="Follow us on Twitter"
-              >
-                <i className="fa fa-twitter" />
-                <p className="d-lg-none">Twitter</p>
-              </NavLink>
-            </NavItem>
-            <NavItem>
-              <NavLink
-                data-placement="bottom"
-                href="https://www.facebook.com/CreativeTim?ref=creativetim"
+                href="https://www.facebook.com/RodriViaja/"
                 target="_blank"
                 title="Like us on Facebook"
               >
@@ -116,7 +88,7 @@ function IndexNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://www.instagram.com/CreativeTimOfficial?ref=creativetim"
+                href="https://www.instagram.com/roparadays/"
                 target="_blank"
                 title="Follow us on Instagram"
               >
@@ -127,20 +99,23 @@ function IndexNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://www.github.com/CreativeTimOfficial/paper-kit-react?ref=creativetim"
+                href="https://twitter.com/CreativeTim?ref=creativetim"
                 target="_blank"
-                title="Star on GitHub"
+                title="Follow us on Twitter"
               >
-                <i className="fa fa-github" />
-                <p className="d-lg-none">GitHub</p>
+                <i className="fa fa-pinterest" />
+                <p className="d-lg-none">Pinterest</p>
               </NavLink>
             </NavItem>
             <NavItem>
               <NavLink
-                href="https://demos.creative-tim.com/paper-kit-react/#/documentation?ref=pkr-index-navbar"
+                data-placement="bottom"
+                href="https://www.youtube.com/channel/UCy190RDLlKUjGhRy69kHN-g?view_as=subscriber"
                 target="_blank"
+                title="Star on GitHub"
               >
-                <i className="nc-icon nc-book-bookmark" /> Documentation
+                <i className="fa fa-youtube" />
+                <p className="d-lg-none">You Tube</p>
               </NavLink>
             </NavItem>
             <NavItem>
@@ -149,9 +124,8 @@ function IndexNavbar() {
                 color="danger"
                 href="#pablo"
                 target="_blank"
-                disabled
               >
-                Upgrade to Pro
+                <span><i className="fa fa-shopping-cart" style={{top: 0}} /> GET MY PRESET FOR FREE</span>
               </Button>
             </NavItem>
           </Nav>

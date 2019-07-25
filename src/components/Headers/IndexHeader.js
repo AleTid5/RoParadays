@@ -1,21 +1,4 @@
-/*!
 
-=========================================================
-* Paper Kit React - v1.0.0
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/paper-kit-react
-
-* Copyright 2019 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/paper-kit-react/blob/master/LICENSE.md)
-
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
 /*eslint-disable*/
 import React from "react";
 
@@ -31,14 +14,14 @@ function IndexHeader() {
         className="page-header section-dark"
         style={{
           backgroundImage:
-            "url(" + require("assets/img/antoine-barres.jpg") + ")"
+            "url(" + require("assets/img/background.jpg") + ")"
         }}
       >
         <div className="filter" />
         <div className="content-center">
           <Container>
             <div className="title-brand">
-              <h1 className="presentation-title">Paper Kit React</h1>
+              <h1 className="presentation-title">Rodri Paradays</h1>
               <div className="fog-low">
                 <img alt="..." src={require("assets/img/fog-low.png")} />
               </div>
@@ -46,9 +29,6 @@ function IndexHeader() {
                 <img alt="..." src={require("assets/img/fog-low.png")} />
               </div>
             </div>
-            <h2 className="presentation-subtitle text-center">
-              Make your mark with a Free Bootstrap 4 (Reactstrap) UI Kit!
-            </h2>
           </Container>
         </div>
         <div
@@ -57,7 +37,7 @@ function IndexHeader() {
             backgroundImage: "url(" + require("assets/img/clouds.png") + ")"
           }}
         />
-        <h6 className="category category-absolute">
+       {/* <h6 className="category category-absolute">
           Designed and coded by{" "}
           <a
             href="https://www.creative-tim.com?ref=pkr-index-page"
@@ -69,7 +49,7 @@ function IndexHeader() {
               src={require("assets/img/creative-tim-white-slim2.png")}
             />
           </a>
-        </h6>
+        </h6>*/}
       </div>
     </>
   );
