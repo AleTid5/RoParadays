@@ -1,4 +1,3 @@
-
 import React from "react";
 // react plugin used to create datetimepicker
 import ReactDatetime from "react-datetime";

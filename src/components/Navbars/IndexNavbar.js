@@ -1,4 +1,3 @@
-
 import React from "react";
 // nodejs library that concatenates strings
 import classnames from "classnames";
@@ -122,7 +121,7 @@ function IndexNavbar() {
               <Button
                 className="btn-round"
                 color="danger"
-                href="#pablo"
+                href="https://rodriviaja.us18.list-manage.com/subscribe?u=ce43beb1cdeef0fe11b9513d7&id=59dafbfa79"
                 target="_blank"
               >
                 <span><i className="fa fa-shopping-cart" style={{top: 0}} /> GET MY PRESET FOR FREE</span>
