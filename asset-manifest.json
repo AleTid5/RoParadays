@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/RoParadays/static/css/main.0efab75e.chunk.css",
+    "main.js": "/RoParadays/static/js/main.c847ee3e.chunk.js",
+    "main.js.map": "/RoParadays/static/js/main.c847ee3e.chunk.js.map",
+    "runtime~main.js": "/RoParadays/static/js/runtime~main.f1d5fde3.js",
+    "runtime~main.js.map": "/RoParadays/static/js/runtime~main.f1d5fde3.js.map",
+    "static/js/2.1d10bd19.chunk.js": "/RoParadays/static/js/2.1d10bd19.chunk.js",
+    "static/js/2.1d10bd19.chunk.js.map": "/RoParadays/static/js/2.1d10bd19.chunk.js.map",
+    "index.html": "/RoParadays/index.html",
+    "precache-manifest.b3347db2808c7b596600bd726ee2f867.js": "/RoParadays/precache-manifest.b3347db2808c7b596600bd726ee2f867.js",
+    "service-worker.js": "/RoParadays/service-worker.js",
+    "static/css/main.0efab75e.chunk.css.map": "/RoParadays/static/css/main.0efab75e.chunk.css.map",
+    "static/media/ayo-ogunseinde-2.jpg": "/RoParadays/static/media/ayo-ogunseinde-2.bfc688ca.jpg",
+    "static/media/background.jpg": "/RoParadays/static/media/background.c676b52c.jpg",
+    "static/media/blog_1.jpg": "/RoParadays/static/media/blog_1.6bc6af53.jpg",
+    "static/media/blog_2.jpg": "/RoParadays/static/media/blog_2.5873a150.jpg",
+    "static/media/blog_3.jpg": "/RoParadays/static/media/blog_3.26cc0e42.jpg",
+    "static/media/clem-onojeghuo-2.jpg": "/RoParadays/static/media/clem-onojeghuo-2.bb4b9ac9.jpg",
+    "static/media/clem-onojeghuo-3.jpg": "/RoParadays/static/media/clem-onojeghuo-3.ae11d928.jpg",
+    "static/media/clouds.png": "/RoParadays/static/media/clouds.61c4e000.png",
+    "static/media/daniel-olahh.jpg": "/RoParadays/static/media/daniel-olahh.facbbdb7.jpg",
+    "static/media/erik-lucatero-2.jpg": "/RoParadays/static/media/erik-lucatero-2.2051e0e8.jpg",
+    "static/media/fabio-mangione.jpg": "/RoParadays/static/media/fabio-mangione.f26c34bb.jpg",
+    "static/media/fog-low.png": "/RoParadays/static/media/fog-low.7812184c.png",
+    "static/media/joe-gardner-2.jpg": "/RoParadays/static/media/joe-gardner-2.76ff47ae.jpg",
+    "static/media/login-image.jpg": "/RoParadays/static/media/login-image.be9fa468.jpg",
+    "static/media/paper-kit.scss": "/RoParadays/static/media/nucleo-icons.f32ed5ad.eot",
+    "static/media/user_1.jpg": "/RoParadays/static/media/user_1.a28e0b6a.jpg",
+    "static/media/user_2.jpg": "/RoParadays/static/media/user_2.53fd3d1b.jpg"
+  }
+}
